@@ -19,8 +19,8 @@ export default function Home() {
       </main>
       <footer>
         <p>
-          footer hola mundo
-          
+          footer
+
         </p>
       </footer>
     </div>
