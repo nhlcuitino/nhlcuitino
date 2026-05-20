@@ -4,7 +4,7 @@ import styles from "../styles/home.scss";
 export default function Home() {
   return (
     <div className="container">
-      Holi... this is awork in progress
+      Holi... this is a work in progress
    
     </div>
   );
